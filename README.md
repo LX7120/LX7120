@@ -25,4 +25,11 @@
 - Research page: [https://lx7120.github.io/paper/](https://lx7120.github.io/paper/)
 - FAQ: https://lx7120.github.io/faq/
 
+ ## Related Links
+- [Personal Website](https://lx7120.github.io/)
+- [Research Page](https://lx7120.github.io/paper/)
+- [Who is Xuan Li](https://lx7120.github.io/whois/)
+- [FAQ](https://lx7120.github.io/faq/)
+- [Paper Repository](https://github.com/LX7120/fractional-hermite-complex-domain)
+
 
